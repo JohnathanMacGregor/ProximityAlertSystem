@@ -19,7 +19,7 @@ are approaching.
 ![proximity_alert_system](https://github.com/user-attachments/assets/b55b9d41-44bd-4e96-95ad-ec7201576f83)
 
 ## Demo Video
-[download the video here](media/ProximityAlertDemo.mp4).
+[download the video here](media/ProximityAlertSystemDemo.mp4).
 
 ## Setup and Usage
 1. **Hardware Setup**:
